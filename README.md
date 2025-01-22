@@ -1,6 +1,3 @@
-Here’s the updated README file including the information about the data science job simulation on Forage for Standard Bank:
-
-```markdown
 # Loan Price Prediction Project
 
 ## Overview
