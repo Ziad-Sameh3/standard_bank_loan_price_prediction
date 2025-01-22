@@ -76,5 +76,3 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
-Replace `<repository-url>` with your GitHub repository's URL. Let me know if you’d like any other adjustments!
